@@ -1,12 +1,12 @@
 Voici la structure du projet AlphabetDogonNènè :
 
-nenekeyboard/
-├── app/                    # Code source de l'application Android (clavier)
-├── font/                   # Fichiers de police Dogon (.sfd, .ttf,)
-├── unicode-submission/     # Dossier avec les documents Unicode
-├── googlefonts-submission/ # Fichiers pour la soumission Google Fonts
-├── docs/                   # Images, captures, documentation
-├── README.md               # Présentation du projet
-├── LICENSE                 # Licence libre (MIT, OFL.)
-├── CONTRIBUTING.md         # Comment contribuer au projet
-└── .gitignore              # Fichiers à ignorer par Git
+AlphabetNènè
+├── 📁 app/                    # Code source de l'application Android (clavier)
+├── 📁 font/                   # Fichiers de police Dogon (.sfd, .ttf,)
+├── 📁 unicode-submission/     # Dossier avec les documents Unicode
+├── 📁 googlefonts-submission/ # Fichiers pour la soumission Google Fonts
+├── 📁 docs/                   # Images, captures, documentation
+├── 📄 README.md               # Présentation du projet
+├── 📄 LICENSE                 # Licence libre (MIT, OFL.)
+├── 📄 CONTRIBUTING.md         # Comment contribuer au projet
+└── 📄 .gitignore              # Fichiers à ignorer par Git

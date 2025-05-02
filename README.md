@@ -35,5 +35,7 @@ Toute aide est la bienvenue ! Merci de lire le [CONTRIBUTING.md](CONTRIBUTING.md
 - **Site web** : https://dogon-nene.netlify.app/
 
 
-
 [![Site Web](https://img.shields.io/badge/Site-officiel-blue)](https://dogon-nene.netlify.app/)
+
+
+![Capture d'écran 2025-05-02 161450](https://github.com/user-attachments/assets/869e998c-556d-43b5-9d39-fc828a9ec3d1)
